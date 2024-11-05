@@ -14,3 +14,4 @@
 
 #### Multimodel Gen AI
 - https://www.simplilearn.com/multimodal-generative-ai-article#conclusion
+
